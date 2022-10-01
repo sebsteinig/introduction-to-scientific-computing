@@ -1,0 +1,7 @@
+Introduction to Scientific Computing
+Lecture 1: Introduction and unit overview
+Lecture 2: Introduction to Python
+Lecture 3: Code structuring
+Lecture 4: Numerical Python 
+Lecture 5: Analysing geospatial datasets 
+...
