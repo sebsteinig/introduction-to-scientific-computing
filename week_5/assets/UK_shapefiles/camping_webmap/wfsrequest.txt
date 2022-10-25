@@ -1,0 +1,1 @@
+https://maps.dartmoor.gov.uk/geoserver/general/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:camping_webmap&outputFormat=SHAPE-ZIP

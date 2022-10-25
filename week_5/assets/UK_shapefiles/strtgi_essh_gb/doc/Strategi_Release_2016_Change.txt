@@ -1,0 +1,92 @@
+Strategi® 2016 release change file
+
+IMPORTANT – PLEASE READ CAREFULLY
+
+The following information applies to all Customers
+**************************************************
+
+Your right to use the data stored on this media or downloaded from the Internet File Transfer Protocol (FTP) Files (Data) 
+is subject to your existing Licence agreement(s) with Ordnance Survey (Existing Licence Agreement(s)).
+
+Your use of the data is limited to the scope of use set out in your Existing Licence Agreement(s).
+
+If you have not entered into any Existing Licence Agreements relating to your use of the Data then you must not access 
+the data and must promptly return the media or FTP file to:
+
+Ordnance Survey
+Adanac Drive
+SOUTHAMPTON
+SO16 0AS.
+
+Further Information
+*******************
+If you have any questions or need more information, please contact: 
+
+Ordnance Survey
+Customer Service Centre
+Adanac Drive
+SOUTHAMPTON
+SO16 0AS.
+
+Phone: +44 (0)3456 05 05 05
+
+Dedicated Welsh Language HelpLine: 03456 05 05 04
+
+Textphone (deaf and hard of hearing users only please): +44 (0)23 8005 6146
+
+Fax: 023 8005 6159
+
+Email: customerservices@os.co.uk
+
+Web site: os.co.uk 
+
+
+
+The latest version of the User Guide and Technical Specification can be found on the Ordnance Survey Website Strategi product page:
+
+os.co.uk/business-and-government/help-and-support/products/strategi.html
+
+***********************************************************************************************************************************
+
+Strategi Specification changes and Content Improvement for all Customers
+
+1.	Two Roads joining with the same Feature Code & Attribution, where there are no other roads connecting, have been merged together to conform to a consistent specification.
+2.	Two Rivers joining with the same Feature Code & Attribution, , where there are no other rivers connecting, have been merged together to conform to a consistent specification.
+3.	All Gradient symbols (5380) are snapped to a road vertex.
+4.	All Nodes in the Non_Graphic_Attributes Feature Class are snapped to a road vertex.
+5.	All roads are connected to other roads, except single roads on islands.
+6.	All Road, Rail or Rivers Feature Classes have no overlapping identical lines.
+7.	No Roads should cross the coast and stop before crossing another coast line (i.e. only bridges between coasts are allowed)
+ 
+
+DELETED ATTRIBUTES
+None
+
+NEW ATTRIBUTES
+None
+
+
+***********************************************************************************************************************************
+The following information applies to all customers
+
+Terms and conditions
+*************************
+A full description of the terms and conditions of supply and use of Strategi is detailed in the 
+signed customer contract held by you or your organisation.  
+
+Liability and copyright statements are also detailed in the preface of the Strategi User Guide.
+
+Trademarks
+**************
+Ordnance Survey, the OS Symbol, OS, Land-Line, Landranger and Strategi are registered trademarks of Ordnance Survey, 
+the national mapping agency of Great Britain.
+
+Adobe, the Adobe logo, Acrobat, the Acrobat logo and Acrobat Reader are trademarks or registered trademarks of 
+Adobe Systems Incorporated.
+
+All other trademarks are the property of their respective owners and are acknowledged.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+README FILE CREATED BY ORDNANCE SURVEY, © January 2016
+-----------------------------------------------------------------------------------------------------------------------------------
+v1.0

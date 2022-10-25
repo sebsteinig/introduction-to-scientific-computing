@@ -1,0 +1,169 @@
+   ORDNANCE SURVEY DATA SUPPLY
+   ---------------------------
+   STRATEGI® DATA
+   ---------------
+
+   IMPORTANT PLEASE READ CAREFULLY
+
+   The information contained within this document is divided into sections:
+
+   SECTION 1 - SUPPLY AND MEDIA INFORMATION
+   SECTION 2 - FORMAT INFORMATION
+   SECTION 3 - AREA EXTENTS
+   SECTION 4 - GAZETTEER
+
+   Customers should refer to the information relating to the Area, 
+   Format and Media appropriate to their order.
+
+
+
+   ****************************************
+   SECTION 1 – SUPPLY AND MEDIA INFORMATION
+   ****************************************
+   SUPPLY INFORMATION
+
+   Customers will need to refer to the Media information appropriate to their order.
+
+
+
+   ******************************
+   SECTION 2 – FORMAT INFORMATION
+   ******************************
+   FORMATS INFORMATION
+
+   Customers will need to refer to the information appropriate to their order.
+
+   Customers taking:
+   DXF™............... - Section 2a
+   MapInfo®........... - Section 2b
+   ESRI® ............. - Section 2c
+
+
+   ********
+   2a   DXF
+   ********
+   The product is supplied for use in AutoCAD®, see example below:
+
+   FORMAT: DXF AutoCAD (compatible release 12)
+
+
+   ************
+   2b   MapInfo
+   ************
+   The product is supplied in MapInfo, see example below:
+
+   FORMAT: MapInfo MID/MIF and TAB
+
+   Media in this format will contain the following TAB files:
+
+    a_road
+    admin
+    airport
+    b_road
+    coast
+    ferry
+    foreshor
+    gridline
+    lakes
+    land_use
+    minor_rd
+    motorway
+    nat_park
+    primy_rd
+    railway
+    rivers
+    seeds
+    settlmnt
+    tourist
+    trans_pt
+    txtadmin
+    txtother
+    txttrans
+    urban
+    water_ft
+    woodland
+
+
+   *********
+   2c   ESRI
+   *********
+   We provide the product for use in ESRI, see below:
+
+   FORMAT: ESRI Shapefile
+
+   Media in this format will contain the following:
+        
+    info
+    general_text  - coverage file to cartographically display text.
+    transport_txt - coverage file to cartographically display text.
+
+   Media in this format will contain the following Shapefiles:
+        
+    a_road
+    admin_line
+    admin_seed
+    antiquity_line
+    b_road
+    coastline
+    ferry_box
+    ferry_line
+    foreshor_region
+    general_text
+    gridlines
+    lakes_region
+    land_use_seed
+    land_use_symbol
+    minor_road
+    motorway
+    national_park
+    primary_road
+    railway_line
+    railway_point
+    rivers_line
+    road_point
+    settlement_seed
+    spot_height
+    tourist_symbol
+    transport_symbol
+    transport_text
+    urban_region
+    woodland_region
+
+    Strategi.lyr (styling layer file)
+
+
+
+   ************************
+   SECTION 3 – AREA EXTENTS
+   ************************
+   
+   It is provided as GB only. Except the DXF format which is GB North & GB South (due to size).
+
+   The DATA EXTENT is as follows:
+
+   		Easting	Northing
+   SW coordinate -	0	0
+   NE coordinate -	700000	1300000
+
+
+
+   *********************
+   SECTION 4 – GAZETTEER
+   *********************
+   GAZETTEER
+   The GAZETTEER AREA EXTENT is as follows:
+
+   		Easting	Northing
+   SW coordinate -	0	0
+   NE coordinate -	700000	1300000
+
+   This information is provided as a single text file within the gazetteer
+   directory.  
+
+
+
+   ------------------------------------------------------------------------------------------------------
+   README FILE CREATED BY ORDNANCE SURVEY, © January 2016
+   ------------------------------------------------------------------------------------------------------
+  V1.0
+
